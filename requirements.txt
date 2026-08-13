@@ -1,4 +1,0 @@
-python-telegram-bot==21.10
-aiosqlite
-flask
-pymongo==4.7.3
